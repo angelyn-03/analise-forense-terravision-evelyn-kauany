@@ -104,11 +104,15 @@ As imagens utilizadas no projeto têm como referência a região de Erg Chebbi, 
 
 ### 6.1 Imagem ilustrativa das dunas
 
-A imagem ilustrativa apresenta as formações de areia e suas características visuais, destacando curvas, texturas, cores, iluminação e sombras.
+Registro visual das dunas de Erg Chebbi, localizadas no deserto do Saara, em Marrocos.
+
+![Dunas de Erg Chebbi](Erg_Chebbi_Por_do_Sol.png)
 
 ### 6.2 Registro do Google Earth
 
-O registro do Google Earth apresenta uma visualização geográfica da região de Erg Chebbi, permitindo observar a paisagem por meio de imagens de satélite.
+Visualização por satélite de Erg Chebbi, em Marrocos, utilizada para observar as características e a extensão da área desértica.
+
+![Imagem de satélite de Erg Chebbi](Erg_Chebbi_Imagem_Satelite.png)
 
 As duas imagens possuem finalidades diferentes: a imagem ilustrativa destaca as características visuais das dunas, enquanto o registro do Google Earth apresenta a referência geográfica da região estudada.
 
