@@ -247,6 +247,9 @@ A análise visual é importante para compreender como as zonas desérticas são 
 
 A imagem a seguir representa uma paisagem desértica e serve como referência visual para observar características como tonalidade, relevo, textura e formações naturais.
 
+## Paisagem do Deserto do Saara
+
+![Dunas do Deserto do Saara](deserto-saara.png)
 
 ### 6.2 Captura de tela do Google Earth
 
