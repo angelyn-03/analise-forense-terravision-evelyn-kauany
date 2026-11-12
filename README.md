@@ -138,12 +138,12 @@ O trabalho também possibilitou relacionar conhecimentos de computação gráfic
 
 Os arquivos do projeto estão organizados no GitHub para facilitar a visualização, o acesso e o acompanhamento do desenvolvimento.
 
-Estrutura do projeto:
+## Estrutura do projeto
 
 - `README.md` — documentação e apresentação do projeto.
 - `script.py` — código-fonte em Python responsável pela simulação dos níveis de detalhamento.
-- `imagem-ilustrativa.png` — imagem de referência das dunas.
-- `google-earth-deserto.png` — registro da região observado no Google Earth.
+- `Erg_Chebbi_Por_do_Sol.png` — imagem ilustrativa das dunas de Erg Chebbi, em Marrocos.
+- `Erg_Chebbi_Imagem_Satelite.png` — captura de tela da região de Erg Chebbi obtida pelo Google Earth.
 
 **Observação:** os nomes dos arquivos devem corresponder exatamente aos nomes utilizados no repositório.
 
