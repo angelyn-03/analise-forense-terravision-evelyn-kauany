@@ -263,7 +263,7 @@ A captura deve permitir visualizar a região escolhida e demonstrar a aplicaçã
 
 **Inserir a captura de tela abaixo:**
 
-![Google Earth - Deserto do Saara](./google-earth-deserto.png)
+![Captura do Google Earth mostrando as dunas de Erg Chebbi](./google-earth-deserto.png.png)
 
 *Figura 2 — Visualização de uma região desértica no Google Earth.*
 
